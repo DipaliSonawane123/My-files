@@ -1,0 +1,132 @@
+24/01/2023 batch 249
+ansari waseem
+enter the number: 4-explained logically
+*******
+*****
+***
+*
+enter the number: 4
+*
+***
+*****
+*******
+done with changes
+QA-
+java features-explained
+JDK-define
+variable-define
+do while and whileloop-explained
+Array methods-need to learn
+paramaterized constructor-define
+String-explained
+data types-explained
+
+Preenkumar Chapala
+
+fabonices series-explained but need to revise logically
+find even no and write code in method-partially done onlye methos not even no program
+QA-
+variable-define
+Data types and its types-need to learn 
+Access Modifier-need to learn 
+sytax of if and if else ans swtich-case-need to learn swich case
+define Array -need to learn more
+ 
+Rajat kumar-program  of find nth prime in series and sum od the prime no's
+partially done not able to find sum of prime no
+QA-
+define java -define
+differnce JDK ,JVM ,JRE-need to read
+define class-defined
+Access Modifer and types - define ,need to learn more
+variable-defined
+break statement- defined 
+Switch and case statement
+Array and its types-defined need to learn more
+
+
+Dinesh Zingade-
+Aramstrong no-done
+QA-
+data types-explained
+constructor-explained
+variable-explained
+condition statenemt-need to learn
+loops staement- explained 
+array and its method-explained but need to learn
+string and method-explained
+
+
+
+
+
+========================================================================
+LFP-242
+Dnyaneshwar jadhav
+Akhil Mondal
+Shital Mohan Fating
+Hariprasad Gujjini
+
+Group-1 -> Create multiple address books 
+-> Create Contacts with details(name, age, phoneNumber,city,state) 
+-> Add multiple contacts in each addressBook 
+-> Also Maintain a dictionary of addressBooks through a Map
+(key->addressBookName , value->addressBook-Object) 
+ ->  Create 3 classes - AddressBook , Contact and 
+AddressBookMain
+
+Shital Fating-
+
+Technical Update:Shital Fating has learned the OOPs 
+fundamentals in this week.  Got to know the OOPs concepts
+ like polymorphism,inheritence,encapsulation,abstraction.
+ Also got to know constructors concepts.She need to learn All 
+concept and need to revies all 
+
+Technical Feedback:oops are known but need to learn encapsulation,
+polymorphism-explained,method overloading need to learn,abstraction
+need to learn
+Assginment:  Completed:- upto day 9(emplyee wage uc7 and address book uc4)
+need to do assignment by own and logically
+
+
+Soft Feedback: Has good communication skills and 
+is proactive . Needs to submit the assignments on a timely
+ basis.
+
+
+======================================================
+
+Dnyaneshwar Jadhav-3.3
+Technical Update:Dnyaneshwar  has learned the OOPs 
+fundamentals in this week.  Got to know the OOPs concepts
+ like polymorphism,inheritence,encapsulation,abstraction.
+ Also got to know constructors concepts.He need to learn All 
+concept and need to revies all 
+
+Technical Feedback:oops knowlegde ,Abstraction- need to learn more,interface need to learn more
+polymorphism-nexplained,class-defined,enapsulation-explained
+inheritance-need to learn more, super keyword-need to learn
+Assginment:  Completed:- upto day 9(emplyee wage uc9 and address book uc5)
+
+
+Soft Feedback: Has good communication skills and 
+is proactive . Needs to submit the assignments on a timely
+ basis.
+============================================
+Akhil Mondal-3.45
+Technical Update:Dnyaneshwar  has learned the OOPs 
+fundamentals in this week.  Got to know the OOPs concepts
+ like polymorphism,inheritence,encapsulation,abstraction.
+ Also got to know constructors concepts.He need to learn All 
+concept and need to revies all 
+
+Technical Feedback:oops knowlegde ,Abstraction- need to learn,interface need to learn more 
+polymorphism-need to learn,class-defined,access modifier-need to learn,enapsulation-need to learn
+inheritanceand its type-explained, super keyword-explained, this keyword-explained but need to learn.
+Assginment:  Completed:- upto day 8(emplyee wage uc3 and address book uc not completed)
+
+
+Soft Feedback: Has good communication skills and 
+is proactive . Needs to submit the assignments on a timely
+ basis.

@@ -1,0 +1,24 @@
+1.Tell me about yourself
+2.oops concept
+4.explain your project
+3.which oops concept is uesd in your project 
+4. why only encapsulation is used on your project 
+5.can we make public to private variable
+6.why u used encaption in your project and what the need
+7.are u used inheritace previously in any project and what is the need to used it/
+8.which database is used in project
+9.whaat is use of logging data sl4j (ans is not for diplay  looging)
+10.what types of exception are not catch in exception
+11.show your id
+12.delete and trancate
+ 
+
+
+checkmate1@king
+
+
+bIOe*&1AQl;V)H?ePS5PTW@rmgwtqi@m
+
+ec2-54-89-212-110.compute-1.amazonaws.com
+
+Administrator

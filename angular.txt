@@ -1,0 +1,58 @@
+Angular tic tac toe
+https://www.youtube.com/watch?v=nEC4iYRD5n0
+https://github.com/Roshni7605/Angular-Tic-Tac-Toe-App
+
+Components
+https://material.angular.io/components/categories
+
+Angular Materials
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwilEuCqFGTL5Gt5U6deIrsU
+
+Directives
+https://www.youtube.com/watch?v=hIPRbT_5Tm4
+https://www.youtube.com/watch?v=vx9Hu847WYg
+https://www.youtube.com/watch?v=TcoRr1eW_kw
+https://www.youtube.com/watch?v=vQe7R78Od8k
+
+Templated driven
+https://www.youtube.com/watch?v=UJjxRNv-qVs
+https://youtu.be/iVMSRFW4vSw
+
+temlate and reactive form
+https://www.youtube.com/playlist?list=PLBpijX9DhBeDyzt3abaYVpICBvyoiGeVp
+
+Emplyeepayroll dashboard
+https://xd.adobe.com/view/1386b9ac-144c-4da1-95ca-c7dd9cc537e7-46d5/screen/50dc2423-ce23-4071-9118-68e8b10eb525/
+
+Emplyee payroll with angular
+https://docs.google.com/document/d/1SuhHnGosE4AH2YdzzwiYjKhLmMFJJg_al2IycEnwmPo/edit?usp=drive_web&authuser=0
+
+Emplyee payrollvideo
+https://www.awesomescreenshot.com/video/7460421?key=ab431401e06c3dd88ee6d3429d594726
+https://xd.adobe.com/view/1386b9ac-144c-4da1-95ca-c7dd9cc537e7-46d5/
+https://docs.google.com/document/d/1SuhHnGosE4AH2YdzzwiYjKhLmMFJJg_al2IycEnwmPo/edit?usp=drive_web&authuser=0
+
+
+ng add @angular/material
+ng g c component/home-page
+ng g c component/home-page
+ng g c component/add-employee
+
+Form Handling & HTTP Service in Angular
+https://www.awesomescreenshot.com/video/7500838?key=9b2fd77d009b48d473325db6f2f5a6cc
+
+HTTP Calls in Angular
+Observable & rxjs
+Fetch Data using HTTP
+HTTP Error Handling
+https://www.youtube.com/watch?v=69VeYoKzL6I
+https://www.youtube.com/watch?v=vj0kUzKOgGQ
+https://www.youtube.com/watch?v=LmIsbzt-S_E
+https://www.youtube.com/watch?v=TmTGQiLBS5A
+
+===========================================================
+
+https://www.linkedin.com/in/dipali-sonawane-a75373219
+
+
+https://lh3.google.com/G0Fmn7A8_fgRmlKzqnbJsQdCkF7eaVN_MqleTpFu1DiFAxkTj-KUugpYz9zKmrk_hj3F7kYcrTHRsPOuXAP89CEeOrC3pVSGjXvZPQ=w105-h70-c
